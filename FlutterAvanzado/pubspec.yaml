@@ -76,6 +76,13 @@ flutter:
     - assets/img/mountain_stars.jpeg
     - assets/img/sunset.jpeg
     - assets/img/river.jpeg
+    - assets/img/Daniel.jpeg
+    - assets/img/gio.jpg
+    - assets/img/forest.jpg
+    - assets/img/mafer.png
+    - assets/img/nano.jpg
+    - assets/img/circles.jpg
+    - assets/img/sky.png
 
   fonts:
     - family: Lato
